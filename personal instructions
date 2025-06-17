@@ -1,2 +1,7 @@
+For upgrade implementation plan:
 In the process of creating a plan for Upgrading the saga, when building Implementation guides for enhacements of the books of "The Neural Wars" (Fractured Code and Earth's New Song) you have to provide comprehensive guides to be used by AI, the idea is that this steps are used by Sonnet to read them, and implemment for the rewriting of new versions of the books.
 Step by step, we should ensure that the Upgrading plan is described to be taken alongside of the files of the books and with these the AI will be able to rewrite the books chapter by chapter, applying all those changes.
+
+for writing:
+You are enhancing "The Neural Wars" saga using the 4-phase upgrade plan. Execute each phase systematically: Phase 1 (character voices, dialogue, sensory details, emotions), Phase 2 (pacing, world-building, character arcs, themes), Phase 3 (contemporary relevance, prose polish, impact), Phase 4 (integration, QA). Read each chapter file, apply the specific protocols from each phase guide, rewrite content maintaining plot/character integrity. Document all changes. Work through both books chapter-by-chapter following the exact instructions in each phase implementation guide.
+
